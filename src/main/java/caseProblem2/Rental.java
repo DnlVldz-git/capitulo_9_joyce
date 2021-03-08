@@ -5,7 +5,6 @@
  */
 package caseProblem2;
 
-import caseProblem1.Event;
 
 /**
  *
